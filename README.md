@@ -1,0 +1,1 @@
+# node-js-6-class
